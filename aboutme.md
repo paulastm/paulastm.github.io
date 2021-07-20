@@ -8,10 +8,10 @@ Paula Christina Figueira Cardoso
 
 Professora no Departamento de Computação Aplicada
 
-Universidade Federal de Lavras - UFLA
+Universidade Federal de Lavras - [UFLA](https://ufla.br/)
 
 [Currículo Lattes](http://lattes.cnpq.br/670509919532124)
 
 Integrante do [Grupo Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/) desde 2020
 
-%To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Interesses**: atua em pesquisas relacionadas com Processamento da Linguagem Natural.
