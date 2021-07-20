@@ -1,0 +1,11 @@
+Paula Christina Figueira Cardoso
+
+Professora no Departamento de Computação Aplicada
+
+Universidade Federal de Lavras - [UFLA](https://ufla.br/)
+
+[Currículo Lattes](http://lattes.cnpq.br/6705099195321243)
+
+Integrante do [Grupo Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/) desde 2020
+
+Interesses: atua em pesquisas relacionadas com Processamento da Linguagem Natural
