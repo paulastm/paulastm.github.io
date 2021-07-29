@@ -1,4 +1,5 @@
- Current courses
+ 
+ ### Current courses
 
 **GAC 109 - Introduction to Algorithms**
 
