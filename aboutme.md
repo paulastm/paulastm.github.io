@@ -6,12 +6,10 @@ title: About me
 
 Paula Christina Figueira Cardoso
 
-Professora no Departamento de Computação Aplicada
+Professor at Federal University of Lavras - [UFLA](https://ufla.br/)
 
-Universidade Federal de Lavras - [UFLA](https://ufla.br/)
+#[Currículo Lattes](http://lattes.cnpq.br/670509919532124)
 
-[Currículo Lattes](http://lattes.cnpq.br/670509919532124)
+Member of the [Grupo Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/) desde 2020
 
-Integrante do [Grupo Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/) desde 2020
-
-**Interesses**: atua em pesquisas relacionadas com Processamento da Linguagem Natural.
+**Interests**: Natural Language Processing topics.
