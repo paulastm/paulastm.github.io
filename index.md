@@ -6,4 +6,6 @@ Professor at Federal University of Lavras - [UFLA](https://ufla.br/)
 
 Member of the [Grupo Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/) since 2020.
 
-Interests: Natural Language Processing topics; Movements to promote women in science and technology.
+Research interests: Natural Language Processing topics; Education in Computer Science.
+
+Other interests: Movements to promote women in science and technology.
