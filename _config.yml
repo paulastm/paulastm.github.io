@@ -22,6 +22,7 @@ author: Paula Cardoso
 
 navbar-links:
   #About Me: "aboutme"
+  Teaching: "teaching"
   Publications: "publications"
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
