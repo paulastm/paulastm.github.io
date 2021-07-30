@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 I can also be found on [Google Scholar](https://scholar.google.com.br/citations?user=5Z-OfTkAAAAJ&hl=pt-BR).
 
 **Journal**
