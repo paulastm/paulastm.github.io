@@ -5,7 +5,7 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com.br/citations?user=5Z-OfTkAAAAJ&hl=pt-BR).
 
-**Journal**
+**Journal Articles**
 
 Dias, Márcio de Souza; Di Felippo, Ariani; Rassi, Amanda Pontes; Cardoso, Paula Christina Figueira; Nóbrega, Fernando Antônio Asevedo; Pardo, Thiago Alexandre Salgueiro. [An investigation of linguistic problems in automatic multi-document summaries](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/16831). Revista de Estudos da Linguagem, v. 29, p. 859-907, 2021.
 
@@ -28,12 +28,12 @@ Sobrevilla Cabezudo, Marco Antonio; Maziero, Erick Galani; Souza, Jackson Wilke 
 
 Correa Sobrinho, Marialina; Cardoso, P.C.F.; Favero, Eloi L. [Objetos de Aprendizagem no Ensino de Inglês](https://seer.ufrgs.br/renote/article/view/14137). RENOTE. Revista Novas Tecnologias na Educação, v. 4, p. 1, 2006.
 
-**Capítulos de Livros**
+**Book Chapters**
 
 Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Carodos, P.C.F.; Seno, E.R.M.; Balage Filho, P. P.; Rassi, A. P.; Dias, M.S; Jorge, M. L. R. C.; Maziero, E.G.; Zacarias, A. ; Souza, J.W.C.; Camargo, R. T.; Agostini, V. . Corpus Annotation of Textual Aspects in Multi-document Summaries. In: Sandra Maria Aluísio; Stela E. O. Tagni. (Org.). Sandra Maria Aluísio; Stela E. O. Tagnin. (Org.). New Language Technologies and Linguistic Research: A Two-Way Road. 1ed.: Cambridge Scholars Publishing, 2014, v. 1, p. 171-192. 
 
 
-**Artigos completos em Conferências**
+**Conference Articles**
 
 
 Cardoso P.C.F.; Parreira Junior, P. A.; Oliveira, J. R.; Costa, H. A. X. . Um relato de experiência sobre o ensino de Introdução à programação no contexto da educação a distância. Anais do V Congresso de Inovação e Metodologias no Ensino Superior e Tecnológico, 2020.
