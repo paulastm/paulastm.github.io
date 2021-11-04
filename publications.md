@@ -36,6 +36,9 @@ Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Carodos, P.C.F.; Seno, E.R.M.; Bal
 **Conference Articles**
 
 
+Silva, A.J.C.; Cardoso, P.C.F.; Inocencio,A.C.; Costa, H.A.X.; Parreira Júnior, P.A. . A Plugin for Analysis the Usage of Virtual Courses in the Moodle Platform. In: Conferência Latinoamericana de Informática (CLEI), 2021, Cartago/Costa Rica. Anais da XLVII Conferência Latinoamericana de Informática, 2021.
+
+
 Cardoso P.C.F.; Parreira Junior, P. A.; Oliveira, J. R.; Costa, H. A. X. . Um relato de experiência sobre o ensino de Introdução à programação no contexto da educação a distância. Anais do V Congresso de Inovação e Metodologias no Ensino Superior e Tecnológico, 2020.
 
 
