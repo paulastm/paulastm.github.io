@@ -35,7 +35,7 @@ Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Carodos, P.C.F.; Seno, E.R.M.; Bal
 
 **Conference Articles**
 
-Sassaki, J.; Cardoso, P.C.F.;  Freire A. P. . [When headers are not there: design and user evaluation of an automatic topicalisation and labelling tool to aid the exploration of web documents by blind users].(https://dl.acm.org/doi/abs/10.1145/3493612.3520470) In: W4A '22: 19th International Web for All Conference, 2022, Lyon, France. W4A '22: Proceedings of the 19th International Web for All Conference. New York, NY, USA: Association for Computing Machinery, 2022.
+Sassaki, J.; Cardoso, P.C.F.;  Freire A. P. . [When headers are not there: design and user evaluation of an automatic topicalisation and labelling tool to aid the exploration of web documents by blind users](https://dl.acm.org/doi/abs/10.1145/3493612.3520470). In: W4A '22: 19th International Web for All Conference, 2022, Lyon, France. W4A '22: Proceedings of the 19th International Web for All Conference. New York, NY, USA: Association for Computing Machinery, 2022.
 
 
 Silva, A.J.C.; Cardoso, P.C.F.; Inocencio,A.C.; Costa, H.A.X.; Parreira Júnior, P.A. . A Plugin for Analysis the Usage of Virtual Courses in the Moodle Platform. In: Conferência Latinoamericana de Informática (CLEI), 2021, Cartago/Costa Rica. Anais da XLVII Conferência Latinoamericana de Informática, 2021.
