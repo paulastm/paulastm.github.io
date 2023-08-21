@@ -31,7 +31,7 @@ Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Bal
 
 Guedes, H.M.C., Cardoso, P.C., Watanabe, W.M.; Freire, A.P.[Contextual exploration of mathematical formulae on the web for people with visual disabilities in Brazil with an open-source screen reader](https://dl.acm.org/doi/abs/10.1145/3554364.3559134). In: Proceedings of the 21st Brazilian Symposium on Human Factors in Computing Systems, 2022.
 
-Sassaki, J.; Cardoso, P.C.F.;  Freire A. P. . [When headers are not there: design and user evaluation of an automatic topicalisation and labelling tool to aid the exploration of web documents by blind users](https://dl.acm.org/doi/abs/10.1145/3493612.3520470). In: W4A '22: 19th International Web for All Conference, 2022, Lyon, France. W4A '22: Proceedings of the 19th International Web for All Conference. New York, NY, USA: Association for Computing Machinery, 2022.
+Sassaki, J.; Cardoso, P.C.F.;  Freire A. P. . [When headers are not there: design and user evaluation of an automatic topicalisation and labelling tool to aid the exploration of web documents by blind users](https://dl.acm.org/doi/abs/10.1145/3493612.3520470). In: W4A '22: 19th International Web for All Conference, 2022, Lyon, France. Proceedings of the 19th International Web for All Conference, 2022.
 
 Silva, A.J.C.; Cardoso, P.C.F.; Inocencio,A.C.; Costa, H.A.X.; Parreira Júnior, P.A. . [A Plugin for Analysis the Usage of Virtual Courses in the Moodle Platform](https://ieeexplore.ieee.org/abstract/document/9640176). In: Conferência Latinoamericana de Informática (CLEI), 2021, Cartago/Costa Rica. Anais da XLVII Conferência Latinoamericana de Informática, 2021.
 
