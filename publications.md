@@ -4,6 +4,7 @@ title: Publications
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.com.br/citations?user=5Z-OfTkAAAAJ&hl=pt-BR).
+Orcid: (https://orcid.org/0000-0003-3621-8960)
 
 **Journal Articles**
 
@@ -28,6 +29,11 @@ Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Bal
 
 
 **Conference Articles**
+
+
+Freire, A.P., Cardoso, P.C. [May We Consult ChatGPT in Our Human-Computer Interaction Written Exam? An Experience Report After a Professor Answered Yes](link). In: Proceedings of the 22st Brazilian Symposium on Human Factors in Computing Systems, 2023.
+
+Rodrigues, R., Souza, J., Cardoso, P.C. Sinalizadores retórico-discursivos: revisitando a anotação RST no córpus CSTNews. In: 8th Jornada de Descrição do Português (JDP). 2023.
 
 Guedes, H.M.C., Cardoso, P.C., Watanabe, W.M.; Freire, A.P.[Contextual exploration of mathematical formulae on the web for people with visual disabilities in Brazil with an open-source screen reader](https://dl.acm.org/doi/abs/10.1145/3554364.3559134). In: Proceedings of the 21st Brazilian Symposium on Human Factors in Computing Systems, 2022.
 
