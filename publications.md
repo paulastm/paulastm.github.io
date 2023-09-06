@@ -7,6 +7,7 @@ I can also be found on [Google Scholar](https://scholar.google.com.br/citations?
 
 Orcid: https://orcid.org/0000-0003-3621-8960
 
+
 **Journal Articles**
 
 Dias, Márcio de Souza; Di Felippo, Ariani; Rassi, Amanda Pontes; Cardoso, Paula Christina Figueira; Nóbrega, Fernando Antônio Asevedo; Pardo, Thiago Alexandre Salgueiro. [An investigation of linguistic problems in automatic multi-document summaries](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/16831). Revista de Estudos da Linguagem, v. 29, p. 859-907, 2021.
