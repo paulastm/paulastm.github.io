@@ -4,6 +4,7 @@ title: Publications
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.com.br/citations?user=5Z-OfTkAAAAJ&hl=pt-BR).
+
 Orcid: (https://orcid.org/0000-0003-3621-8960)
 
 **Journal Articles**
