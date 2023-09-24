@@ -5,7 +5,14 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com.br/citations?user=5Z-OfTkAAAAJ&hl=pt-BR).
 
-Orcid: https://orcid.org/0000-0003-3621-8960
+Orcid: https://orcid.org/0000-0003-3621-8960  
+
+**Book Chapters**
+
+Cardoso, P.C.F.; Souza, J.W.C; Rodrigues, R. . Modelos discursivos. In: Helena de Medeiros Caseli; Maria das Graças Volpe Nunes (Org.). [Processamento de Linguagem Natural: conceitos, técnicas e aplicações em português](https://brasileiraspln.com/livro-pln/). 1ed. 2023
+
+Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Balage Filho, P. P.; Rassi, A. P.; Dias, M.S; Jorge, M. L. R. C.; Maziero, E.G.; Zacarias, A. ; Souza, J.W.C.; Camargo, R. T.; Agostini, V. . Corpus Annotation of Textual Aspects in Multi-document Summaries. In: Sandra Maria Aluísio; Stela E. O. Tagni. (Org.). New Language Technologies and Linguistic Research: A Two-Way Road. 1ed.: Cambridge Scholars Publishing, 2014, v. 1, p. 171-192. 
+
 
 
 **Journal Articles**
@@ -24,10 +31,6 @@ Sobrevilla Cabezudo, Marco Antonio; Maziero, Erick Galani; Souza, Jackson Wilke 
 
 Correa Sobrinho, Marialina; Cardoso, P.C.F.; Favero, Eloi L. [Objetos de Aprendizagem no Ensino de Inglês](https://seer.ufrgs.br/renote/article/view/14137). RENOTE. Revista Novas Tecnologias na Educação, v. 4, p. 1, 2006.
 
-
-**Book Chapters**
-
-Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Balage Filho, P. P.; Rassi, A. P.; Dias, M.S; Jorge, M. L. R. C.; Maziero, E.G.; Zacarias, A. ; Souza, J.W.C.; Camargo, R. T.; Agostini, V. . Corpus Annotation of Textual Aspects in Multi-document Summaries. In: Sandra Maria Aluísio; Stela E. O. Tagni. (Org.). Sandra Maria Aluísio; Stela E. O. Tagnin. (Org.). New Language Technologies and Linguistic Research: A Two-Way Road. 1ed.: Cambridge Scholars Publishing, 2014, v. 1, p. 171-192. 
 
 
 **Conference Articles**
