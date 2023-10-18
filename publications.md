@@ -17,6 +17,8 @@ Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Bal
 
 **Journal Articles**
 
+Guedes, H.M.C.; Cardoso, P C F.; Freire, E.R.C.G.; Watanabe, W.M.; Freire, A.P. [Screen-Reader Based Contextual Exploration of Mathematical Formulas in Brazilian Portuguese: Design, User Evaluation and Teaching Scenario in the Context of Numerical Analysis](https://sol.sbc.org.br/journals/index.php/jis/article/view/3325). Journal on Interactive Systems, Porto Alegre, RS, v. 14, n. 1, p. 546–561, 2023.
+
 Dias, Márcio de Souza; Di Felippo, Ariani; Rassi, Amanda Pontes; Cardoso, Paula Christina Figueira; Nóbrega, Fernando Antônio Asevedo; Pardo, Thiago Alexandre Salgueiro. [An investigation of linguistic problems in automatic multi-document summaries](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/16831). Revista de Estudos da Linguagem, v. 29, p. 859-907, 2021.
 
 Lima, Mirella Alves de; Rodrigues, Daniela; Vasconcelos, Patricia Almeida; Cardoso, Paula Christina Figueira; Freire, André Pimenta. [Análise de verbalizações de fórmulas matemáticas por professores com experiência no ensino de pessoas com deficiência visual](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/14624). Revista de Estudos da Linguagem, v. 27, p. 1371-1397, 2019.
@@ -40,7 +42,7 @@ Freire, A.P., Cardoso, P.C. [May We Consult ChatGPT in Our Human-Computer Intera
 
 Rodrigues, R., Souza, J., Cardoso, P.C. [Sinalizadores retórico-discursivos: revisitando a anotação RST no córpus CSTNews](https://sol.sbc.org.br/index.php/stil/article/view/25458). In: Anais do XIV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana, 2023.
 
-Guedes, H.M.C., Cardoso, P.C., Watanabe, W.M.; Freire, A.P.[Contextual exploration of mathematical formulae on the web for people with visual disabilities in Brazil with an open-source screen reader](https://dl.acm.org/doi/abs/10.1145/3554364.3559134). In: Proceedings of the 21st Brazilian Symposium on Human Factors in Computing Systems, 2022.
+Guedes, H.M.C., Cardoso, P.C., Watanabe, W.M.; Freire, A.P. [Contextual exploration of mathematical formulae on the web for people with visual disabilities in Brazil with an open-source screen reader](https://dl.acm.org/doi/abs/10.1145/3554364.3559134). In: Proceedings of the 21st Brazilian Symposium on Human Factors in Computing Systems, 2022.
 
 Sassaki, J.; Cardoso, P.C.F.;  Freire A. P. . [When headers are not there: design and user evaluation of an automatic topicalisation and labelling tool to aid the exploration of web documents by blind users](https://dl.acm.org/doi/abs/10.1145/3493612.3520470). In: W4A '22: 19th International Web for All Conference, 2022, Lyon, France. Proceedings of the 19th International Web for All Conference, 2022.
 
