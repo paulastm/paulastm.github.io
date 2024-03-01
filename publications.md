@@ -38,7 +38,7 @@ Correa Sobrinho, Marialina; Cardoso, P.C.F.; Favero, Eloi L. [Objetos de Aprendi
 **Conference Articles**
 
 
-Freire, A.P., Cardoso, P.C., Salgado, A. [May We Consult ChatGPT in Our Human-Computer Interaction Written Exam? An Experience Report After a Professor Answered Yes](link). In: Proceedings of the 22st Brazilian Symposium on Human Factors in Computing Systems, 2023.
+Freire, A.P., Cardoso, P.C., Salgado, A. [May We Consult ChatGPT in Our Human-Computer Interaction Written Exam? An Experience Report After a Professor Answered Yes](https://dl.acm.org/doi/10.1145/3638067.3638100). In: Proceedings of the 22st Brazilian Symposium on Human Factors in Computing Systems, 2023.
 
 Santos, D.S., Cardoso, P.C.F., Pinto, V.H.S.C. [Charles' Adventures: um jogo educativo sobre as
 doenças tropicais da Amazônia](link). In: Anais do XXII Simpósio Brasileiro de Jogos e Entretenimento Digital, 2023
