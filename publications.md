@@ -9,9 +9,9 @@ Orcid: https://orcid.org/0000-0003-3621-8960
 
 **Book Chapters**
 
-Souza, J.W.C; Cardoso, P.C.F.; Paixâo, C. A. [Sumarização automática](https://brasileiraspln.com/livro-pln/](https://brasileiraspln.com/livro-pln/2a-edicao/parte-aplicacoes/cap-as/cap-as.html). In: Helena de Medeiros Caseli; Maria das Graças Volpe Nunes (Org.). Processamento de Linguagem Natural: conceitos, técnicas e aplicações em português. 2ed. 2024
+Souza, J.W.C; Cardoso, P.C.F.; Paixâo, C. A. [Sumarização automática](https://brasileiraspln.com/livro-pln/2a-edicao/parte-aplicacoes/cap-as/cap-as.html). In: Helena de Medeiros Caseli; Maria das Graças Volpe Nunes (Org.). Processamento de Linguagem Natural: conceitos, técnicas e aplicações em português. 2ed. 2024
 
-Cardoso, P.C.F.; Souza, J.W.C; Rodrigues, R. . Modelos discursivos. In: Helena de Medeiros Caseli; Maria das Graças Volpe Nunes (Org.). [Processamento de Linguagem Natural: conceitos, técnicas e aplicações em português]([https://brasileiraspln.com/livro-pln/](https://brasileiraspln.com/livro-pln/2a-edicao/parte-discurso/cap-modelos-discursivos/cap-modelos-discursivos.html). 1ed. 2023
+Cardoso, P.C.F.; Souza, J.W.C; Rodrigues, R. [Modelos discursivos](https://brasileiraspln.com/livro-pln/2a-edicao/parte-discurso/cap-modelos-discursivos/cap-modelos-discursivos.html). In: Helena de Medeiros Caseli; Maria das Graças Volpe Nunes (Org.). Processamento de Linguagem Natural: conceitos, técnicas e aplicações em português. 1ed. 2023
 
 Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Balage Filho, P. P.; Rassi, A. P.; Dias, M.S; Jorge, M. L. R. C.; Maziero, E.G.; Zacarias, A. ; Souza, J.W.C.; Camargo, R. T.; Agostini, V. . Corpus Annotation of Textual Aspects in Multi-document Summaries. In: Sandra Maria Aluísio; Stela E. O. Tagni. (Org.). New Language Technologies and Linguistic Research: A Two-Way Road. 1ed.: Cambridge Scholars Publishing, 2014, v. 1, p. 171-192. 
 
