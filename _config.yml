@@ -24,6 +24,7 @@ navbar-links:
   #About Me: "aboutme"
   Teaching: "teaching"
   Publications: "publications"
+  Projects: "projects"
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://paulastm.github.io/"
