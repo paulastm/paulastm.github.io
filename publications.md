@@ -67,7 +67,7 @@ Lopez, Roque ; Pardo, Thiago ; Avanço, Lucas ; Filho, Pedro ; Bokan, Alessandro
 
 Cardoso, P.C.F.; Pardo, T. A. S. . [Joint semantic discourse models for automatic multi-document summarization](https://aclanthology.org/W15-5612/). 10th Brazilian Symposium in Information and Human Language Technology, 2015, Natal.
 
-Cardoso, P.C.F.; Jorge, M. L. R. C.; Pardo, T. A. S. . Exploring the Rhetorical Structure Theory for Multi-document Summarization. In: 5th Workshop RST and Discourse Studies, 2015, Alicante. Anais da SEPLN, 2015.
+Cardoso, P.C.F.; Jorge, M. L. R. C.; Pardo, T. A. S. . [Exploring the Rhetorical Structure Theory for Multi-document Summarization](https://sites.icmc.usp.br/taspardo/RST2015-CardosoEtAl.pdf). In: 5th Workshop RST and Discourse Studies, 2015, Alicante. Anais da SEPLN, 2015.
 
 Drury, B. ; Cardoso, P.C.F. ; Thomas, J. ; Lopes, A. A.. Lexical Resources for the Identification of Causative Relations in Portuguese texts. Proceedings of the I Workshop on Tools and Resources for Automatically Processing Portuguese and Spanish - ToRPorEsp, 2014.
 
