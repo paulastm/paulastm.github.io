@@ -9,7 +9,7 @@ Orcid: https://orcid.org/0000-0003-3621-8960
 
 **Book Chapters**
 
-Souza, J.W.C; Cardoso, P.C.F.; Paixâo, C. A. Sumarização automática. In: Helena de Medeiros Caseli; Maria das Graças Volpe Nunes (Org.). [Processamento de Linguagem Natural: conceitos, técnicas e aplicações em português]([https://brasileiraspln.com/livro-pln/](https://brasileiraspln.com/livro-pln/2a-edicao/parte-aplicacoes/cap-as/cap-as.html). 2ed. 2024
+Souza, J.W.C; Cardoso, P.C.F.; Paixâo, C. A. [Sumarização automática]([https://brasileiraspln.com/livro-pln/](https://brasileiraspln.com/livro-pln/2a-edicao/parte-aplicacoes/cap-as/cap-as.html). In: Helena de Medeiros Caseli; Maria das Graças Volpe Nunes (Org.). Processamento de Linguagem Natural: conceitos, técnicas e aplicações em português. 2ed. 2024
 
 Cardoso, P.C.F.; Souza, J.W.C; Rodrigues, R. . Modelos discursivos. In: Helena de Medeiros Caseli; Maria das Graças Volpe Nunes (Org.). [Processamento de Linguagem Natural: conceitos, técnicas e aplicações em português]([https://brasileiraspln.com/livro-pln/](https://brasileiraspln.com/livro-pln/2a-edicao/parte-discurso/cap-modelos-discursivos/cap-modelos-discursivos.html). 1ed. 2023
 
