@@ -43,7 +43,7 @@ Correa Sobrinho, Marialina; Cardoso, P.C.F.; Favero, Eloi L. [Objetos de Aprendi
 Freire, A.P., Cardoso, P.C., Salgado, A. [May We Consult ChatGPT in Our Human-Computer Interaction Written Exam? An Experience Report After a Professor Answered Yes](https://dl.acm.org/doi/10.1145/3638067.3638100). In: Proceedings of the 22st Brazilian Symposium on Human Factors in Computing Systems, 2023.
 
 Santos, D.S., Cardoso, P.C.F., Pinto, V.H.S.C. [Charles' Adventures: um jogo educativo sobre as
-doenças tropicais da Amazônia](link). In: Anais do XXII Simpósio Brasileiro de Jogos e Entretenimento Digital, 2023
+doenças tropicais da Amazônia](https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/27849). In: Anais do XXII Simpósio Brasileiro de Jogos e Entretenimento Digital, 2023
 
 Rodrigues, R., Souza, J., Cardoso, P.C. [Sinalizadores retórico-discursivos: revisitando a anotação RST no córpus CSTNews](https://sol.sbc.org.br/index.php/stil/article/view/25458). In: Anais do XIV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana, 2023.
 
