@@ -4,11 +4,12 @@ title: Teaching
 ---
 ### Current courses
 
+
+### Previous courses
+
 **GAC 109 - Introduction to Algorithms**
 
 Computer operations: Computer architecture overview; Number systems overview. Variables and constants. Sequential, conditional and repetition structures. Vectors and matrices. Files and records. Search algorithms. Internal sorting. Modularization. Recursion. Pointers and dynamic allocation.
-
-### Previous courses
 
 **GAC110 - Programming Fundamentals I**
 
