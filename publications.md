@@ -19,6 +19,8 @@ Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Bal
 
 **Journal Articles**
 
+Souza, J.W.C.; Cardoso, Paula C.F.; Rodrigues, R.. [[Systematic Review of Studies on Rhetorical Structure Theory](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/34319). Revista de Estudos da Linguagem, v.31, p.1643 - 1675, 2023.
+
 Guedes, H.M.C.; Cardoso, P C F.; Freire, E.R.C.G.; Watanabe, W.M.; Freire, A.P. [Screen-Reader Based Contextual Exploration of Mathematical Formulas in Brazilian Portuguese: Design, User Evaluation and Teaching Scenario in the Context of Numerical Analysis](https://sol.sbc.org.br/journals/index.php/jis/article/view/3325). Journal on Interactive Systems, Porto Alegre, RS, v. 14, n. 1, p. 546–561, 2023.
 
 Dias, Márcio de Souza; Di Felippo, Ariani; Rassi, Amanda Pontes; Cardoso, Paula Christina Figueira; Nóbrega, Fernando Antônio Asevedo; Pardo, Thiago Alexandre Salgueiro. [An investigation of linguistic problems in automatic multi-document summaries](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/16831). Revista de Estudos da Linguagem, v. 29, p. 859-907, 2021.
