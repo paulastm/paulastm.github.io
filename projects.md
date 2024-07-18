@@ -1,1 +1,1 @@
-teste
+[POeTiSA: POrtuguese processing - Towards Syntactic Analysis and parsing](https://sites.google.com/icmc.usp.br/poetisa/the-project?authuser=0): a long term project that aims at growing syntax and discourse based resources and developing related tools and applications for Brazilian Portuguese language, looking to achieve world state-of-the-art results in this area.
