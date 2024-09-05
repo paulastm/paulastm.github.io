@@ -2,10 +2,14 @@
 layout: page
 title: Teaching
 ---
-### Current courses
+### Current courses at UFPA
+**Algorithms**
+Introduction to the concept of algorithms. Introduction to the concept of propositional logic. Primitive data types and operators. Decision structures. Repetition structures. Homogeneous and heterogeneous data structures.
 
+**Computer Programming - 1**
+Overview of algorithms. Procedures. Recursive algorithms. Files. 
 
-### Previous courses
+### Previous courses - at UFLA
 
 **GAC 109 - Introduction to Algorithms**
 
