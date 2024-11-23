@@ -11,6 +11,10 @@ Introduction to the concept of algorithms. Introduction to the concept of propos
 
 Overview of algorithms. Procedures. Recursive algorithms. Files. 
 
+**Data Structures - 1**
+
+Overview of algorithms. Procedures. Recursive algorithms. Files. 
+
 ### Previous courses - at UFLA
 
 **GAC 109 - Introduction to Algorithms**
