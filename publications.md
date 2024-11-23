@@ -43,6 +43,9 @@ Correa Sobrinho, Marialina; Cardoso, P.C.F.; Favero, Eloi L. [Objetos de Aprendi
 
 **Conference Articles**
 
+Cardoso, Paula et al. [A Linguagem em Foco: Anotação de Sinalizadores Discursivos em Textos Jornalísticos](https://sol.sbc.org.br/index.php/stil/article/view/31137). In: Anais do XV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), Belém/PA, 2024.
+
+Pereira, M.R., Cardoso, P.C.F., Greghi, J.G., Uchôa, J.Q., Silva, R.R. da. [Exploring a Hybrid Methodology: Experience Report in Introductory Programming for Computer Science and Information Systems Courses](https://sol.sbc.org.br/index.php/sbie/article/view/31231). In: Anais do XXXV Simpósio Brasileiro de Informática na Educação (SBIE), 2024. 
 
 Freire, A.P., Cardoso, P.C., Salgado, A. [May We Consult ChatGPT in Our Human-Computer Interaction Written Exam? An Experience Report After a Professor Answered Yes](https://dl.acm.org/doi/10.1145/3638067.3638100). In: Proceedings of the 22st Brazilian Symposium on Human Factors in Computing Systems, 2023.
 
