@@ -13,7 +13,8 @@ Overview of algorithms. Procedures. Recursive algorithms. Files.
 
 **Data Structures - 1**
 
-Overview of algorithms. Procedures. Recursive algorithms. Files. 
+Basic data structures. Trees. Priority list. Sorting algorithms.
+
 
 ### Previous courses - at UFLA
 
