@@ -13,7 +13,7 @@ Introduction to the concept of algorithms. Introduction to the concept of propos
 
 Overview of algorithms. Procedures. Recursive algorithms. Files. 
 
-Wiki: (https://github.com/paulastm/programacao_1/wiki)
+Wiki: https://github.com/paulastm/programacao_1/wiki
 
 
 **Data Structures - 1**
