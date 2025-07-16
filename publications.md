@@ -19,6 +19,8 @@ Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Bal
 
 **Journal Articles**
 
+Souza, J.W.C.; Cardoso, Paula C.F.; Rodrigues, R. Taxonomy of Discourse Signals for RST Relations: A Study in a News Corpus. Revista Brasileira de Linguística Aplicada, ISSN 1984-6398 (to appear).
+
 Silva, J. S. R., Cardoso, P. C. F., de Bettio, R. W., Tavares, D. C., Silva, C. A., Watanabe, W. M., & Freire, A. P. [In-Page Navigation Aids for Screen-Reader Users with Automatic Topicalisation and Labelling](https://dl.acm.org/doi/10.1145/3649223). ACM Transactions on Accessible Computing, 2024.
 
 Souza, J.W.C.; Cardoso, Paula C.F.; Rodrigues, R. [Systematic Review of Studies on Rhetorical Structure Theory](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/34319). Revista de Estudos da Linguagem, v.31, p.1643 - 1675, 2023.
