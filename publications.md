@@ -45,6 +45,8 @@ Correa Sobrinho, Marialina; Cardoso, P.C.F.; Favero, Eloi L. [Objetos de Aprendi
 
 **Conference Articles**
 
+Santos, D.S., Cardoso, P.C.F., Pinto, V.H.S.C. [Égua Assist: Uma Ferramenta de Apoio ao Ensino de Lógica de Programação para Estudantes com Deficiência Visual](https://doi.org/10.5753/wei.2025.8941). In: Anais do XXXIII Workshop sobre Educação em Computação (WEI-CSBC), 2025.
+
 Cardoso, Paula et al. [A Linguagem em Foco: Anotação de Sinalizadores Discursivos em Textos Jornalísticos](https://sol.sbc.org.br/index.php/stil/article/view/31137). In: Anais do XV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), Belém/PA, 2024.
 
 Pereira, M.R., Cardoso, P.C.F., Greghi, J.G., Uchôa, J.Q., Silva, R.R. da. [Exploring a Hybrid Methodology: Experience Report in Introductory Programming for Computer Science and Information Systems Courses](https://sol.sbc.org.br/index.php/sbie/article/view/31231). In: Anais do XXXV Simpósio Brasileiro de Informática na Educação (SBIE), 2024. 
