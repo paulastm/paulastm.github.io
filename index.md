@@ -1,6 +1,8 @@
 Paula Christina Figueira Cardoso
 
-Professor at Federal University of Pará - [UFPA](https://ufpa.br/)
+Institute of Natural and Exact Sciences
+
+Federal University of Pará - Belém/PA/Brazil - [UFPA](https://ufpa.br/)
 
 [Curriculum Lattes](http://lattes.cnpq.br/6705099195321243)
 
