@@ -45,7 +45,7 @@ Correa Sobrinho, Marialina; Cardoso, P.C.F.; Favero, Eloi L. [Objetos de Aprendi
 
 **Conference Articles**
 
-Santos, D.S., Cardoso, P.C.F., Pinto, V.H.S.C. Égua Assist: Uma Ferramenta de Apoio ao Ensino de Lógica de Programação para Estudantes com Deficiência Visual. In: Anais do XXXIII Workshop sobre Educação em Computação (WEI-CSBC), 2025.
+Santos, D.S., Cardoso, P.C.F., Pinto, V.H.S.C. [Égua Assist: Uma Ferramenta de Apoio ao Ensino de Lógica de Programação para Estudantes com Deficiência Visual](https://sol.sbc.org.br/index.php/wei/article/view/36242/36029). In: Anais do XXXIII Workshop sobre Educação em Computação (WEI-CSBC), 2025.
 
 Cardoso, Paula et al. [A Linguagem em Foco: Anotação de Sinalizadores Discursivos em Textos Jornalísticos](https://sol.sbc.org.br/index.php/stil/article/view/31137). In: Anais do XV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), Belém/PA, 2024.
 
