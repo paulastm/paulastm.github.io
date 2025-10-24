@@ -21,7 +21,7 @@ Di Fellipo, A.; Rino, L.H.M; Pardo, T. A. S.; Cardoso, P.C.F.; Seno, E.R.M.; Bal
 
 Rodrigues, R; Cardoso, Paula C.F.; Souza, J.W.C. Avaliação de LLMs na identificação de Sinalizadores Discursivos em textos jornalísticos anotados com RST. Revista Letras & Letras, 2026, ISSN 1981-5239 (to appear).
 
-Souza, J.W.C.; Cardoso, Paula C.F.; Rodrigues, R. Taxonomy of Discourse Signals for RST Relations: A Study in a News Corpus. Revista Brasileira de Linguística Aplicada, 2025, ISSN 1984-6398 (to appear).
+Souza, J.W.C.; Cardoso, Paula C.F.; Rodrigues, R. [Taxonomy of Discourse Signals for RST Relations: A Study in a News Corpus](https://www.scielo.br/j/rbla/a/PF6GVp6F7FGzXWRc5SfRVLQ/?lang=en). Revista Brasileira de Linguística Aplicada, 2025, ISSN 1984-6398.
 
 Silva, J. S. R., Cardoso, P. C. F., de Bettio, R. W., Tavares, D. C., Silva, C. A., Watanabe, W. M., & Freire, A. P. [In-Page Navigation Aids for Screen-Reader Users with Automatic Topicalisation and Labelling](https://dl.acm.org/doi/10.1145/3649223). ACM Transactions on Accessible Computing, 2024.
 
