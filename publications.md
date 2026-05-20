@@ -103,3 +103,14 @@ Cardoso, Paula Christina Figueira; Maziero, E.G. ; Jorge, M. L. R. C. ; Rino, L.
 Araujo, C. A. P. ; Cardoso, P.C.F. ; Merabet, C. A. R. . Uso do Messenger para prática de programação em pares virtual no ensino de programação. XIX Simpósio Brasileiro de Informática na Educação, 2008, Fortaleza.
 
 Cardoso, Paula Christina Figueira; Correa Sobrinho, Marialina; Favero, Eloi . Ensino de Inglês com Objetos de Aprendizagem. CONAHPA-Congresso Nacional de Ambientes Hipermídia para Aprendizagem, 2006, Florianópolis. 
+
+
+**Extended abstract**
+
+Silva, Carlos Vitor Cardoso da; Souza, Jackson da Cruz; CARDOSO, Paula Figueira. [RST Visualizer: Uma ferramenta para a análise comparativa de anotações da Teoria da Estrutura Retórica](https://doi.org/10.5753/stil.2025.37880). In: XVI Anais do Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL/TILIC), 2025, Fortaleza/CE.
+
+Almeida, Tobias J. A.; Almeida, Patrícia V.; CARDOSO, Paula C. F.. [Relações Retóricas de List e Sequence em textos jornalísticos](https://doi.org/10.5753/stil.2024.244878). In: XV Anais do Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL/TILIC), 2024, Belém/PA.
+
+Cruz, Gabriel Sizinio Bomfim; Souza, Jackson W. C.; CARDOSO, Paula C. F.. [Estratégias Automáticas para Análise da Concordância da Anotação de Sinalizadores Discursivos](https://doi.org/10.5753/stil.2024.245159). In: XV Anais do Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL/TILIC), 2024, Belém/PA.
+
+Duarte, Rodrigo Marques; Salgado, André de Lima; CARDOSO, Paula Figueira. [Especulação Mística. Uma abordagem de Clusterização e Busca Semântica na aproximação de preço em cartas de Magic: The Gathering](https://doi.org/10.5753/stil.2024.245375). In:XV Anais do Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL/TILIC), 2024, Belém/PA.
