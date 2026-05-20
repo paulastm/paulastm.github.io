@@ -1,8 +1,16 @@
 [RST beyond discourse markers](https://sites.google.com/view/rst-poetisa/the-project) (current): 
-The project is structured into two main phases: (i) revisiting and analyzing the RST annotation of the CSTNews corpus and reviewing existing work in BP; and (ii) conducting a study of RST annotation to identify new linguistic cues for marking rhetorical discourse relations, inspired by Das and Taboada (2019) for English. 
+O projeto está estruturado em duas fases principais: (i) revisitar e analisar a anotação RST do corpus CSTNews e revisar trabalhos existentes em PB; e (ii) conduzir um estudo da anotação RST para identificar novas pistas linguísticas para a marcação de relações retóricas do discurso, inspirado em Ankita Das e Maite Taboada (2019) para o inglês.
 
-Through these activities, we aim to expand the project to include initiatives that enhance linguistic resources in RST for Portuguese, proposing computational applications and comparative studies of rhetorical relations between BP and other natural languages. 
+Por meio dessas atividades, buscamos expandir o projeto para incluir iniciativas que aprimorem os recursos linguísticos em RST para o português, propondo aplicações computacionais e estudos comparativos das relações retóricas entre o PB e outras línguas naturais.
 
-[POeTiSA: POrtuguese processing - Towards Syntactic Analysis and parsing](https://sites.google.com/icmc.usp.br/poetisa/the-project?authuser=0) (current): a long term project that aims at growing syntax and discourse based resources and developing related tools and applications for Brazilian Portuguese language, looking to achieve world state-of-the-art results in this area.
+[POeTiSA: POrtuguese processing - Towards Syntactic Analysis and parsing](https://sites.google.com/icmc.usp.br/poetisa/the-project?authuser=0) (current): Um projeto de longo prazo que visa ampliar recursos baseados em sintaxe e discurso, bem como desenvolver ferramentas e aplicações relacionadas para a língua portuguesa brasileira, buscando alcançar resultados de ponta em nível mundial nessa área.
 
-[sucinto - summarization for clever information access](https://sites.icmc.usp.br/taspardo/sucinto/team.html) (finished) - investigation and exploration of multi-document summarization strategies for providing a more feasible and intelligent access to on-line information from news agencies
+[sucinto - summarization for clever information access](https://sites.icmc.usp.br/taspardo/sucinto/team.html) (finished) - Investigação e exploração de estratégias de sumarização multidocumento para proporcionar um acesso mais viável e inteligente às informações on-line provenientes de agências de notícias.
+
+
+**Temas de interesse**
+Sumarização automática de documentos.
+Análise discursiva automática.
+Avaliação automática de redações.
+Letramento em inteligência artificial.
+Acessibilidade na área de ciências exatas.
