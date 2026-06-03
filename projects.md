@@ -9,12 +9,9 @@ Por meio dessas atividades, buscamos expandir o projeto para incluir iniciativas
 
 
 **Temas de interesse**
-Sumarização automática de documentos.
 
-Análise discursiva automática.
-
-Avaliação automática de redações.
-
-Letramento em inteligência artificial.
-
-Acessibilidade na área de ciências exatas.
+* Sumarização automática de documentos.
+* Análise discursiva automática.
+* Avaliação automática de redações.
+* Letramento em inteligência artificial.
+* Acessibilidade na área de ciências exatas.
