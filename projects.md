@@ -10,7 +10,7 @@ Por meio dessas atividades, buscamos expandir o projeto para incluir iniciativas
 
 **Temas de interesse**
 
-* Acessibilidade na área de ciências exatas ((ema prioritário no momento; há possibilidade de bolsa para candidato(a) adequado(a)).
+* Acessibilidade na área de ciências exatas (tema prioritário no momento; há possibilidade de bolsa para candidato(a) adequado(a)).
 * Sumarização automática de documentos.
 * Análise discursiva automática.
 * Avaliação automática de redações.
