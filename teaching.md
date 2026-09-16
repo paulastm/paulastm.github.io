@@ -2,7 +2,15 @@
 layout: page
 title: Teaching
 ---
-### Current courses at UFPA
+### Courses at UFPA
+
+
+**Computer Programming - 2**
+
+Object-oriented programming.
+
+
+**Introduction to Natural Language Processing**
 
 **Algorithms**
 
