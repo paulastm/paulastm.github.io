@@ -49,7 +49,9 @@ Correa Sobrinho, Marialina; Cardoso, P.C.F.; Favero, Eloi L. [Objetos de Aprendi
 
 **Conference Articles**
 
-Souza, J.W.C.; Cardoso, P.C.F. [Da sintaxe ao discurso: Evidências introdutórias da correlação entre Universal Dependencies e Rhetorical Structure Theory](https://sol.sbc.org.br/index.php/stil/article/view/44640). In: 17th Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), Jornada de Descrição do Português. 2026.
+Souza, J.W.C.; Cardoso, P.C.F. [Da sintaxe ao discurso: Evidências introdutórias da correlação entre Universal Dependencies e Rhetorical Structure Theory](https://sol.sbc.org.br/index.php/stil/article/view/44640). In: 17th Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), Jornada de Descrição do Português. 2026. Cuiabá/MT.
+
+Matos, S.C.M.; De Lima, J.P.V.; Arruda, J.P.S.; Cardoso, P.C.F.; Pinto, V.H.S.C.. [Robótica Educacional para o Desenvolvimento do Pensamento Computacional no Ensino Médio: um Relato de Experiência](https://sol.sbc.org.br/index.php/wie/article/view/45013). In: 32th Workshop de Informática na Escola (WIE). 2026. Goiânia/GO.
 
 Silva, A.J.C., Mateus, P.H.S., Cunha, I.G.M., De Paula, B.A., Ferreira, L.C., Santos, R.L.B., Costa, H.A.X., De Castro, C.C., Souza, M.R.A., Cardoso, P.C.F., Moreira, R.T., Parreira Júnior, P.A. [Disseminação e Customização de um Plugin para Gestão do Tipo de Utilização de Cursos no AVA Moodle](https://sol.sbc.org.br/index.php/wie/article/view/38361). In: Anais do XXXI Workshop de Informática na Escola (WIE-CBIE), 2025.
 
@@ -111,7 +113,9 @@ Cardoso, Paula Christina Figueira; Correa Sobrinho, Marialina; Favero, Eloi . En
 
 **Extended abstract**
 
-Silva, Carlos Vitor Cardoso da; Souza, Jackson da Cruz; CARDOSO, Paula Figueira. [RST Visualizer: Uma ferramenta para a análise comparativa de anotações da Teoria da Estrutura Retórica](https://doi.org/10.5753/stil.2025.37880). In: XVI Anais do Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL/TILIC), 2025, Fortaleza/CE.
+Silva, Carlos Vitor Cardoso da; Cardoso, P.C.F. [Integração de Conhecimento Linguístico Estruturado em LLMs para a Tarefa de Sumarização Extrativa](https://sol.sbc.org.br/index.php/stil/article/view/44655).  In: 17th Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), Jornada de Descrição do Português. Workshop de IC em Tecnologia da Informação e da Linguagem Humana. 2026. Cuiabá/MT.
+
+Silva, Carlos Vitor Cardoso da; Souza, Jackson da Cruz; Cardoso, P.C.F.. [RST Visualizer: Uma ferramenta para a análise comparativa de anotações da Teoria da Estrutura Retórica](https://doi.org/10.5753/stil.2025.37880). In: 16th Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), Workshop de IC em Tecnologia da Informação e da Linguagem Humana. 2025. Fortaleza/CE.
 
 Almeida, Tobias J. A.; Almeida, Patrícia V.; CARDOSO, Paula C. F.. [Relações Retóricas de List e Sequence em textos jornalísticos](https://doi.org/10.5753/stil.2024.244878). In: XV Anais do Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL/TILIC), 2024, Belém/PA.
 
