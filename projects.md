@@ -18,7 +18,7 @@ Por meio dessas atividades, buscamos expandir o projeto para incluir iniciativas
 
 
 **Orientações em andamento**
-ANA FLÁVIA SILVA GOMES - mestrado
+ANA FLÁVIA SILVA GOMES - mestrado  
 CARLOS VITOR CARDOSO DA SILVA - graduação
 IAN GUILHERME LIMA DA VITORIA - iniciação científica
 LUIZ PEDRO DE ARAUJO AMORIM - iniciação científica
