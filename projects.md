@@ -16,3 +16,14 @@ Por meio dessas atividades, buscamos expandir o projeto para incluir iniciativas
 * Avaliação automática de redações.
 * Letramento em inteligência artificial.
 
+
+**Orientações em andamento**
+ANA FLÁVIA SILVA GOMES - mestrado
+CARLOS VITOR CARDOSO DA SILVA - graduação
+IAN GUILHERME LIMA DA VITORIA - iniciação científica
+LUIZ PEDRO DE ARAUJO AMORIM - iniciação científica
+
+**Orientações concluídas**
+CARLOS VITOR CARDOSO DA SILVA - iniciação científica
+LEONARDO CUNHA DA ROCHA - iniciação científica
+LEANDRO MARCOS PINHEIRO SOUZA - TRABALHO DE CONCLUSÃO DE CURSO
